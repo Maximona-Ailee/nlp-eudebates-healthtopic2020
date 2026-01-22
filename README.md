@@ -1,6 +1,6 @@
 # COVID-19 and health topics in European Parliament Debated (2020) (NLP, LLM-BASED EXTRACTION, KG, NETWORK)
 
-##Overview
+## Overview
 This project analyzes health-related discussions in European Parliament debates during the year 2020, with a particular focus on COVID-19 and public health issues.  
 The study applies **Large Language Models (LLMs)** for structured information extraction and combines **descriptive analysis** with **knowledge graph and network analysis** to explore how political parties discussed health topics during the pandemic.
 
