@@ -52,13 +52,7 @@ The main objectives of this project are:
 
 ### Step 2: LLM-based Structured Extraction
 - Use a locally deployed LLM (via **Ollama – Gemma 3 4B**) to process speeches
-- The LLM is prompted to return **strict JSON output**:
-  ```json
-  {
-    "health_mentioned": true or false,
-    "health_topics": ["list of health-related topics"]
-  }
-
+- The LLM is prompted to return **strict JSON output**
   ---
 
 ### Step 3: Descriptive Analysis
