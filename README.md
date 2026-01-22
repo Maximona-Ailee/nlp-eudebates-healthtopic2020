@@ -52,7 +52,7 @@ The main objectives of this project are:
 
 ### Step 2: LLM-based Structured Extraction
 - Use a locally deployed LLM (via **Ollama – Gemma 3 4B**) to process speeches
-- The LLM is prompted to return **strict JSON output**
+- The LLM is prompted to return strict JSON output
   ---
 
 ### Step 3: Descriptive Analysis
@@ -88,6 +88,8 @@ The main objectives of this project are:
   - Central health topics during the pandemic
   - Interpret results in relation to EU political dynamics during COVID-19
 
+  ---
+  
 ### Key Findings (Summary)
 - Around one-third of parliamentary speeches in 2020 addressed health-related issues
 - Healthcare systems were discussed more frequently than COVID-19 itself
