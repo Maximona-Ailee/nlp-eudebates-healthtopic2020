@@ -1,0 +1,5 @@
+#requirement
+pandas>=2.3.3
+datasets>=4.4.1
+seaborn>=0.13.2
+networkx>=3.4.2
